@@ -1,6 +1,5 @@
 {
     "port": "COM4",
     "board": "arduino:avr:uno",
-    "programmer": "arduino:avrisp",
     "sketch": "robotarm.ino"
 }
